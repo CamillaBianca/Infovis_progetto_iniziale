@@ -11,7 +11,8 @@ Codice
 ```
 
 ## Browser testati
-Lista
+- Lista 1
+- Lista 2
 
 ## Anteprima
 Immagine
