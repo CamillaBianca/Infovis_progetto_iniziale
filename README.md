@@ -1,5 +1,6 @@
 # Visualizzazione delle Informazioni - Progetto iniziale
 Prova prova
+> Nota
 
 ## Specifiche del progetto
 Testo testo
