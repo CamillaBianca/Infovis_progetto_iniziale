@@ -42,5 +42,5 @@ Il progetto è stato testato e viene visualizzato correttamente sui seguenti bro
 - **Mozilla Firefox**, versione 67.0 (64 bit).
 
 ## Anteprima statica
-![Anteprima Progetto Infovis iniziale](https://github.com/CamillaBianca/infovis_progetto_iniziale/edit/master/img/anteprima.png)
+![Anteprima Progetto Infovis iniziale](https://github.com/CamillaBianca/infovis_progetto_iniziale/tree/master/img/anteprima.png)
 
