@@ -12,7 +12,7 @@ Le caratteristiche facciali su cui si può cliccare sono:
 - **Contorno occhi** (per fare l'ordinamento da occhi piccoli a grandi);
 - **Interno occhi** (per fare l'ordinamento da colore degli occhi più chiaro a più scuro).
 
-Sono state aggiunte le seguenti funzionalità, non richieste nel progetto:
+Sono state aggiunte le seguenti caratteristiche e funzionalità, non richieste nel progetto:
 - Le orecchie, che sono un dettaglio estetico aggiuntivo, difatti sono tutte uguali e non fanno parte delle 5 caratteristiche facciali da ordinare;
 - Il colore della pelle, che viene assegnato a ciascuna faccia in modo casuale, e non costituisce motivo di ordinamento. Ogni volta che la pagina viene ricaricata, il colore della pelle di ogni singola faccia cambia in modo randomico;
 - Le etichette al passaggio del mouse, che facilitano la selezione della caratteristica giusta.
