@@ -11,11 +11,11 @@ Sono state aggiunte le seguenti funzionalità, non richieste nel progetto:
 - Le etichette al passaggio del mouse, che facilitano la selezione della caratteristica giusta.
 
 Le caratteristiche facciali su cui si può cliccare sono:
-- Bocca (per fare l'ordinamento da bocca triste a felice);
-- Naso (per fare l'ordinamento da naso più corto a più lungo);
-- Sopracciglia (per fare l'ordinamento da sopracciglia tristi ad arrabbiate);
-- Contorno occhi (per fare l'ordinamento da occhi piccoli a grandi);
-- Interno occhi (per fare l'ordinamento da colore degli occhi più chiaro a più scuro).
+- **Bocca** (per fare l'ordinamento da bocca triste a felice);
+- **Naso** (per fare l'ordinamento da naso più corto a più lungo);
+- **Sopracciglia** (per fare l'ordinamento da sopracciglia tristi ad arrabbiate);
+- **Contorno occhi** (per fare l'ordinamento da occhi piccoli a grandi);
+- **Interno occhi** (per fare l'ordinamento da colore degli occhi più chiaro a più scuro).
 
 ### Versione utilizzata
 La versione di d3.js utilizzata è la v5, la più recente al momento.
