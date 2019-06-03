@@ -20,6 +20,7 @@ http://localhost:[porta]
 Sostiture ```[porta]``` con il numero della porta che si vuole utilizzare. Per esempio:
 ```
 python -m SimpleHTTPServer 8888 &
+
 http://localhost:8888
 ```
 
