@@ -23,13 +23,13 @@ La versione di d3.js utilizzata è la v5, la più recente al momento.
 ## Sviluppo in locale
 Per visualizzare correttamente il progetto, è necessario creare un server locale sulla directory di lavoro. Una volta posizionati nella cartella corrente, eseguire da terminale il comando seguente:
 ```
-python -m SimpleHTTPServer [porta] &
+python -m SimpleHTTPServer porta &
 ```
 Dopodiché è necessario aprire il browser e digitare:
 ```
-http://localhost:[porta]
+http://localhost:porta
 ```
-Sostiture ```[porta]``` con il numero della porta che si vuole utilizzare. Per esempio:
+Sostiture ```porta``` con il numero della porta che si vuole utilizzare. Per esempio:
 ```
 python -m SimpleHTTPServer 8888 &
 
