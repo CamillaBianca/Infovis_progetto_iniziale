@@ -5,17 +5,17 @@ Progetto iniziale (ed individuale) di Visualizzazione delle Informazioni, svolto
 "*Crea un file json con dei dati multivariati: ci sono 20 data-point e ogni data-point ha cinque variabili quantitative i cui valori sono tutti positivi. In base a questi dati disegna 20 facce con diverse caratteristiche (rotondità della faccia, dimensione del naso, dimensione degli occhi, bocca sorridente o triste, ecc) associando ogni caratteristica ad una variabile. Facendo click con il pulsante sinistro su una caratteristica di una faccia, tutte le facce si dispongono in un ordine da sinistra a destra corrispondente all'ordinamento dei rispettivi data-point in base alla variabile associata a quella caratteristica. Fai in modo che i cambi di disposizione delle facce avvengano con un'animazione fluida.*"
 
 ## Note del progetto
-Sono state aggiunte le seguenti funzionalità, non richieste nel progetto:
-- Le orecchie, che sono un dettaglio estetico aggiuntivo, difatti sono tutte uguali e non fanno parte delle 5 caratteristiche facciali da ordinare;
-- Il colore della pelle, che viene assegnato a ciascuna faccia in modo casuale, e non costituisce motivo di ordinamento. Ogni volta che la pagina viene ricaricata, il colore della pelle di ogni singola faccia cambia in modo randomico;
-- Le etichette al passaggio del mouse, che facilitano la selezione della caratteristica giusta.
-
 Le caratteristiche facciali su cui si può cliccare sono:
 - **Bocca** (per fare l'ordinamento da bocca triste a felice);
 - **Naso** (per fare l'ordinamento da naso più corto a più lungo);
 - **Sopracciglia** (per fare l'ordinamento da sopracciglia tristi ad arrabbiate);
 - **Contorno occhi** (per fare l'ordinamento da occhi piccoli a grandi);
 - **Interno occhi** (per fare l'ordinamento da colore degli occhi più chiaro a più scuro).
+
+Sono state aggiunte le seguenti funzionalità, non richieste nel progetto:
+- Le orecchie, che sono un dettaglio estetico aggiuntivo, difatti sono tutte uguali e non fanno parte delle 5 caratteristiche facciali da ordinare;
+- Il colore della pelle, che viene assegnato a ciascuna faccia in modo casuale, e non costituisce motivo di ordinamento. Ogni volta che la pagina viene ricaricata, il colore della pelle di ogni singola faccia cambia in modo randomico;
+- Le etichette al passaggio del mouse, che facilitano la selezione della caratteristica giusta.
 
 ### Versione utilizzata
 La versione di d3.js utilizzata è la v5, la più recente al momento.
