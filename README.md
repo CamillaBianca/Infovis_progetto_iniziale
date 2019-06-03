@@ -11,10 +11,15 @@ Le caratteristiche facciali su cui si può cliccare sono: *bocca, naso, sopracci
 ## Sviluppo in locale
 Per visualizzare correttamente il progetto, è necessario creare un server locale sulla directory di lavoro. Una volta posizionati nella cartella corrente, eseguire da terminale il comando seguente:
 ```
-python -m SimpleHTTPServer 8888 &
+python -m SimpleHTTPServer [porta] &
 ```
 Dopodiché è necessario aprire il browser e digitare:
 ```
+http://localhost:[porta]
+```
+Sostiture ```[porta]``` con il numero della porta che si vuole utilizzare. Per esempio:
+```
+python -m SimpleHTTPServer 8888 &
 http://localhost:8888
 ```
 
